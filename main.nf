@@ -2,7 +2,7 @@ nextflow.enable.dsl=2
 
 process MAKE_DB {
     tag "$name"
-    container 'quay.io/biocontainers/diamond:2.1.11--h13889ed_1'
+    container 'quay.io/biocontainers/diamond:2.1.11--h5ca1c30_2'
     cpus 2
     memory '8 GB'
     input:
@@ -21,7 +21,7 @@ process MAKE_DB {
 
 process SCREEN {
     tag "${sample}:${db_name}"
-    container 'quay.io/biocontainers/diamond:2.1.11--h13889ed_1'
+    container 'quay.io/biocontainers/diamond:2.1.11--h5ca1c30_2'
     cpus 8
     memory '24 GB'
     maxForks 8
