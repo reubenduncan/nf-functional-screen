@@ -1,0 +1,7 @@
+.nextflow/
+.nextflow.log*
+work/
+results/
+
+kenya_prodigal_inputs.csv
+assets/kenya_params.json

@@ -1,0 +1,4 @@
+name	source	sha256
+NCyc_100.faa.gz	https://raw.githubusercontent.com/qichao1984/NCyc/4ee9aad986264d79e0763933b4d05b05c31125fe/data/NCyc_100.faa.gz	817dec255aa3bcffe990d9e92d50fe6515602f9f09d15e746055b3fc40fbdf2b
+id2gene.map	https://raw.githubusercontent.com/qichao1984/NCyc/4ee9aad986264d79e0763933b4d05b05c31125fe/data/id2gene.map	0ab7d53f043f7e5ed113f517156b77d1e6a7a4009159aa69c2ed5bed110df5b3
+BacMet_EXP_database.fasta	https://raw.githubusercontent.com/ZhihaoXie/BacMet/2e76ce454c9e5b7353af5b7ed63a196a06960788/BacMet2_EXP/BacMet_EXP_database.fasta	18c1ca2244dbe49c3add39ee28a4a68f89713d46c82f7f673dc6fccc1c4d526b
