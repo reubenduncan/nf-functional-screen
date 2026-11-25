@@ -45,7 +45,7 @@ process SCREEN {
 
 process ANNOTATE {
     tag "$sample"
-    container 'python:3.11-slim'
+    container 'python:3.11-bookworm'
     cpus 2
     memory '8 GB'
     input:
